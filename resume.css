@@ -1,0 +1,20 @@
+#info {
+    color: white;
+    background-color: #1d2124;
+    border-radius: 10px;
+    font-size: larger;
+    font-family: auto;
+    margin: 10px;
+}
+#name {
+    font-size: -webkit-xxx-large;
+    font-family: serif;
+}
+
+#tab {
+    display: block;
+    background: #285ba714;
+    border-radius: 10px;
+    margin-top: 20px;
+    font-size: xx-large;
+}
